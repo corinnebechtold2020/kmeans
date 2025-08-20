@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f9f9f9;
+}
+#controls {
+    margin-bottom: 10px;
+}
+canvas {
+    border: 1px solid #aaa;
+    background: #fff;
+}
+button, select {
+    margin: 0 5px;
+    padding: 5px 10px;
+    font-size: 1em;
+}
